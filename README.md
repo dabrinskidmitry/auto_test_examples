@@ -1,2 +1,3 @@
 # auto_test_examples
-Suit of automation tests on Python
+
+This is a suit of examples for automation tests on Python
